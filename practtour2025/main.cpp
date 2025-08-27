@@ -14,7 +14,8 @@ int main() {
 		CheckInputFile(fin_mark);
 		CheckInputFile(fin_stud);
 
-		std::string* 
+		FillBinaryFileFromTextFile(fin_mark, bin_mark);
+		FillBinaryFileFromTextFile(fin_stud, bin_stud);
 
 
 	}

@@ -50,3 +50,10 @@ void FillArrayFromFileStud(std::istream& fin_mark, std::istream& fin_stud, Stude
 		fin_mark.ignore();
 	}
 }
+
+void FillBinaryFileFromTextFile(std::ifstream& fin_mark, std::fstream& bin_mark) {
+	std::string line;
+	while (std::getline(fin_mark, line)) {
+		bin_mark << line;
+	}
+}

@@ -35,4 +35,12 @@
       <Filter>Файлы ресурсов</Filter>
     </Text>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Bin_ID_SNP.bin">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
 </Project>

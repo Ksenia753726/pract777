@@ -21,4 +21,6 @@ struct Student {
 void FillArrayFromFileStud(std::istream& fin_mark, std::istream& fin_stud, Student* student, int32_t size);
 void CheckInputFile(std::istream& fin);
 
+void FillBinaryFileFromTextFile(std::ifstream& fin_mark, std::fstream& bin_mark);
+
 #endif

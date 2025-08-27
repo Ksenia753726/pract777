@@ -137,6 +137,10 @@
     <Text Include="Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt" />
     <Text Include="ID_SNP.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin" />
+    <None Include="Bin_ID_SNP.bin" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
