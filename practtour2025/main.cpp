@@ -13,10 +13,19 @@ int main() {
 	try {
 		CheckInputFile(fin_mark);
 		CheckInputFile(fin_stud);
+		int32_t size{ FindCountOfStudents(fin_stud) };
+		Student* array_stud = new Student[size];
 
-		std::string* 
+		FillArrayFromFileStud(fin_mark, fin_stud, array_stud, size);
+		/*std::string* lines_mark = new std::string[size];
+		std::string* lines_stud = new std::string[size];
 
+		FillLinesFromFile(fin_mark, fin_stud, lines_mark, lines_stud, size);
 
+		
+
+		FillBinaryFile(bin_stud, lines_stud, size);
+		FillBinaryFile(bin_mark, lines_mark, size);*/
 	}
 	catch (const char* m) {
 		std::cout << m;

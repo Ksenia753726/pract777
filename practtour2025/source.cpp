@@ -35,8 +35,9 @@ void FillArrayFromFileStud(std::istream& fin_mark, std::istream& fin_stud, Stude
 	std::string mark_ma;
 	std::string mark_geo;
 	std::string mark_prog;
+	std::string shlak;
 	int32_t i{};
-	while (i < size && std::getline(fin_stud, id, ';') && std::getline(fin_mark, group, ';') && std::getline(fin_stud, surname, ';') && std::getline(fin_stud, name, ';') && std::getline(fin_stud, patronymic, ';') && std::getline(fin_mark, mark_ma, ';') && std::getline(fin_mark, mark_geo, ';') && fin_mark >> mark_prog) {
+	while (i < size && std::getline(fin_stud, id, ';')  && std::getline(fin_mark, group, ';') && std::getline(fin_stud, surname, ';') && std::getline(fin_stud, name, ';') && fin_stud >> patronymic && std::getline(fin_mark, shlak, ';') && std::getline(fin_mark, shlak, ';') && std::getline(fin_mark, mark_ma, ';') && std::getline(fin_mark, shlak, ';') && std::getline(fin_mark, mark_geo, ';') && std::getline(fin_mark, shlak, ';') && fin_mark >> mark_prog) {
 		student[i].id = std::stoi(id);
 		student[i].group = std::stoi(group);
 		student[i].name = name;
@@ -49,4 +50,33 @@ void FillArrayFromFileStud(std::istream& fin_mark, std::istream& fin_stud, Stude
 		fin_stud.ignore();
 		fin_mark.ignore();
 	}
+}
+
+void FillBinaryFile(std::fstream& bin, std::string* arr, int32_t size)
+{
+	for (int32_t i{}; i < size; ++i)
+	{
+		bin.write(reinterpret_cast<char*>(&arr[i]), sizeof arr[i]);
+	}
+}
+
+void FillLinesFromFile(std::istream& fin_mark, std::istream& fin_stud, std::string* line_mark,std::string* line_stud, int32_t size) {
+	fin_stud.clear();
+	fin_stud.seekg(0);
+
+	fin_mark.clear();
+	fin_mark.seekg(0);
+	std::string str;
+	int32_t i{};
+	int32_t k{};
+	while (fin_mark >> str) {
+		line_mark[i] = str;
+		++i;
+	}
+
+	while (fin_stud >> str) {
+		line_stud[k] = str;
+		++k;
+	}
+
 }

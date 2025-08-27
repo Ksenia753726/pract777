@@ -20,5 +20,8 @@ struct Student {
 
 void FillArrayFromFileStud(std::istream& fin_mark, std::istream& fin_stud, Student* student, int32_t size);
 void CheckInputFile(std::istream& fin);
+int32_t FindCountOfStudents(std::istream& fin);
+void FillBinaryFile(std::fstream& bin, std::string* arr, int32_t size);
+void FillLinesFromFile(std::istream& fin_mark, std::istream& fin_stud, std::string* line_mark, std::string* line_stud, int32_t size);
 
 #endif
