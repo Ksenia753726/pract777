@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="source.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="source.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
@@ -28,10 +28,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ID_SNP.txt">
+    <Text Include="Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
-    <Text Include="Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt">
+    <Text Include="ID_SNP.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
   </ItemGroup>
@@ -40,6 +40,27 @@
       <Filter>Файлы ресурсов</Filter>
     </None>
     <None Include="Bin_ID_SNP.bin">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="SurnamesMarks.bin">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Bin_Average.bin">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Bin_Silly_Std.bin">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Bin_Silly_Std_After.bin">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Bin_Statement.bin">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Bin_Statement_Avg.bin">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Bin_Good_Std.bin">
       <Filter>Файлы ресурсов</Filter>
     </None>
   </ItemGroup>

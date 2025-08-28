@@ -1,34 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\git\\Git\\pract777\\practtour2025\\",
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|D:\\git\\Git\\pract777\\practtour2025\\Bin_ID_SNP.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|solutionrelative:Bin_ID_SNP.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Average.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:Bin_Average.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|D:\\git\\Git\\pract777\\practtour2025\\Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|solutionrelative:Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Good_Std.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:Bin_Good_Std.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|D:\\git\\Git\\pract777\\practtour2025\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|D:\\git\\Git\\pract777\\practtour2025\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|solutionrelative:header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_ID_SNP.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:Bin_ID_SNP.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|D:\\git\\Git\\pract777\\practtour2025\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Silly_Std_After.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:Bin_Silly_Std_After.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|D:\\git\\Git\\pract777\\practtour2025\\ID_SNP.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|solutionrelative:ID_SNP.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Statement.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:Bin_Statement.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|D:\\git\\Git\\pract777\\practtour2025\\Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{61F437EE-BC8F-4DAD-AED7-92789DDA9147}|practtour2025.vcxproj|solutionrelative:Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Statement_Avg.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:Bin_Statement_Avg.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Silly_Std.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:Bin_Silly_Std.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\ID_SNP.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:ID_SNP.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\SurnamesMarks.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3AC39829-E241-46BA-8A9C-2A835CD005B5}|practtour2025.vcxproj|solutionrelative:SurnamesMarks.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,101 +66,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\git\\Git\\pract777\\practtour2025\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\git\\Git\\pract777\\practtour2025\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-27T11:35:03.202Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "source.cpp",
-              "DocumentMoniker": "D:\\git\\Git\\pract777\\practtour2025\\source.cpp",
-              "RelativeDocumentMoniker": "source.cpp",
-              "ToolTip": "D:\\git\\Git\\pract777\\practtour2025\\source.cpp",
-              "RelativeToolTip": "source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-27T11:35:19.153Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "header.h",
-              "DocumentMoniker": "D:\\git\\Git\\pract777\\practtour2025\\header.h",
-              "RelativeDocumentMoniker": "header.h",
-              "ToolTip": "D:\\git\\Git\\pract777\\practtour2025\\header.h",
-              "RelativeToolTip": "header.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-27T11:35:31.663Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt",
-              "DocumentMoniker": "D:\\git\\Git\\pract777\\practtour2025\\Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt",
-              "RelativeDocumentMoniker": "Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt",
-              "ToolTip": "D:\\git\\Git\\pract777\\practtour2025\\Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt",
-              "RelativeToolTip": "Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-27T11:38:30.939Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ID_SNP.txt",
-              "DocumentMoniker": "D:\\git\\Git\\pract777\\practtour2025\\ID_SNP.txt",
-              "RelativeDocumentMoniker": "ID_SNP.txt",
-              "ToolTip": "D:\\git\\Git\\pract777\\practtour2025\\ID_SNP.txt",
-              "RelativeToolTip": "ID_SNP.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-27T11:36:42.811Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "Title": "Bin_Statement.bin",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Statement.bin",
+              "RelativeDocumentMoniker": "Bin_Statement.bin",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Statement.bin*",
+              "RelativeToolTip": "Bin_Statement.bin*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T10:40:10.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bin_Statement_Avg.bin",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Statement_Avg.bin",
+              "RelativeDocumentMoniker": "Bin_Statement_Avg.bin",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Statement_Avg.bin*",
+              "RelativeToolTip": "Bin_Statement_Avg.bin*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T10:58:14.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bin_Silly_Std_After.bin",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Silly_Std_After.bin",
+              "RelativeDocumentMoniker": "Bin_Silly_Std_After.bin",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Silly_Std_After.bin*",
+              "RelativeToolTip": "Bin_Silly_Std_After.bin*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T10:03:44.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bin_ID_SNP.bin",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_ID_SNP.bin",
+              "RelativeDocumentMoniker": "Bin_ID_SNP.bin",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_ID_SNP.bin*",
+              "RelativeToolTip": "Bin_ID_SNP.bin*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T07:42:07.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin",
+              "RelativeDocumentMoniker": "Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin*",
+              "RelativeToolTip": "Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T07:41:43.582Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin",
-              "DocumentMoniker": "D:\\git\\Git\\pract777\\practtour2025\\Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin",
-              "RelativeDocumentMoniker": "Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin",
-              "ToolTip": "D:\\git\\Git\\pract777\\practtour2025\\Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin",
-              "RelativeToolTip": "Bin_Group_ID_MA_Mark_GEO_Mark_PROG_Mark.bin",
+              "Title": "Bin_Good_Std.bin",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Good_Std.bin",
+              "RelativeDocumentMoniker": "Bin_Good_Std.bin",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Good_Std.bin*",
+              "RelativeToolTip": "Bin_Good_Std.bin*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-27T20:07:38.312Z",
-              "IsPinned": true
+              "WhenOpened": "2025-08-28T11:12:26.628Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bin_ID_SNP.bin",
-              "DocumentMoniker": "D:\\git\\Git\\pract777\\practtour2025\\Bin_ID_SNP.bin",
-              "RelativeDocumentMoniker": "Bin_ID_SNP.bin",
-              "ToolTip": "D:\\git\\Git\\pract777\\practtour2025\\Bin_ID_SNP.bin",
-              "RelativeToolTip": "Bin_ID_SNP.bin",
+              "Title": "Bin_Average.bin",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Average.bin",
+              "RelativeDocumentMoniker": "Bin_Average.bin",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Average.bin*",
+              "RelativeToolTip": "Bin_Average.bin*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-27T20:08:03.69Z",
-              "IsPinned": true
+              "WhenOpened": "2025-08-28T08:50:58.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt",
+              "RelativeDocumentMoniker": "Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt",
+              "RelativeToolTip": "Group_ID_MA_Mark_GEO_Mark_PROG_Mark.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-28T07:39:36.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bin_Silly_Std.bin",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Silly_Std.bin",
+              "RelativeDocumentMoniker": "Bin_Silly_Std.bin",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\Bin_Silly_Std.bin*",
+              "RelativeToolTip": "Bin_Silly_Std.bin*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T09:28:46.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ID_SNP.txt",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\ID_SNP.txt",
+              "RelativeDocumentMoniker": "ID_SNP.txt",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\ID_SNP.txt",
+              "RelativeToolTip": "ID_SNP.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-28T07:41:11.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\source.cpp",
+              "RelativeDocumentMoniker": "source.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\source.cpp",
+              "RelativeToolTip": "source.cpp",
+              "ViewState": "AQIAAIgBAAAAAAAAAAAswJABAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-28T07:37:22.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-28T07:38:02.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "header.h",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\header.h",
+              "RelativeDocumentMoniker": "header.h",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\header.h",
+              "RelativeToolTip": "header.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAswEUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-28T07:38:15.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SurnamesMarks.bin",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\SurnamesMarks.bin",
+              "RelativeDocumentMoniker": "SurnamesMarks.bin",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0430\\\u0434\u0437\\practtour2025\\SurnamesMarks.bin",
+              "RelativeToolTip": "SurnamesMarks.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T07:42:37.155Z"
             }
           ]
         }
