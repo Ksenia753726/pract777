@@ -12,3 +12,20 @@ Makefile
 *.tmp
 
 .vs/
+
+.vs/
+*.suo
+*.db
+*.pdb
+*.ilk
+*.idb
+*.tlog/
+*.exe.recipe
+*.lastbuildstate
+*.log
+*.obj
+*.exe
+*.cache
+*.user
+*.VC.db
+*.json
